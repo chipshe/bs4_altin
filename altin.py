@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-import userbilgileri
 import requests
 import pandas as pd
 
